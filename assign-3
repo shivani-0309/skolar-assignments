@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Schedule</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background:#dffd7d;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My Weekly Schedule</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Time Slot</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                <th>Sunday</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Morning</td>
+                <td>Exercise</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Relax</td>
+                <td>Relax</td>
+            </tr>
+            <tr>
+                <td>Afternoon</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Work</td>
+                <td>Shopping</td>
+                <td>Family Time</td>
+            </tr>
+            <tr>
+                <td>Evening</td>
+                <td>Dinner</td>
+                <td>Dinner</td>
+                <td>Dinner</td>
+                <td>Dinner</td>
+                <td>Dinner</td>
+                <td>Movie Night</td>
+                <td>Relax</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
