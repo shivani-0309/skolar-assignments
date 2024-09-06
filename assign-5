@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested lists</title>
+</head>
+<body>
+    <h1>Favourite Movies</h1>
+        <ol>
+            <li>kalki</li>
+                <ul>
+                    <li>Year of release:2024</li>
+                    <li>main actors:prabhas and deepika padukone</li>
+                    <li>This is a pan India movie</li>
+                </ul>
+            <li>srikanth</li>
+            <ul>
+                <li>Year of release:2024</li>
+                <li>main actors:Rajkumar Rao and Alaya f</li>
+                <li>In a world where the odds are against him srikanth defies the norms and makes his way from rural India to becoming the first visually impaired student at MIT</li>
+            </ul>
+            <li>12th fail</li>
+            <ul>
+                <li>Year of release:2024</li>
+                <li>main actors:Vikranth massey and Medha shanker</li>
+                <li>It is inspired by the life story of IPS officer Manoj kumar sharma and his wife IRS officer shraddha joshi</li>
+            </ul>
+            <li>Memu Famous</li>
+            <ul>
+                <li>Year of release:2023</li>
+                <li>main actors:sumanth prabhas and saarya laxman</li>
+                <li>A high energy Youth full journey filled with amazing moments friendship,love,family</li>
+            </ul>
+            <li>Darling</li>
+            <ul>
+                <li>Year of release:2024</li>
+                <li>main actors:Priya dharshi and Nabha natesh</li>
+                <li>The movie is about a man who nurtures the idea of marriage as a passport to happiness discovers that his wife has multiple personalities</li>
+            </ul>
+        </ol>
+</body>
+</html>
