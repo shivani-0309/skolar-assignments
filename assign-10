@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comments and Special Characters</title>
+</head>
+<body>
+    <!-- This is an HTML comment, which is ignored by the browser -->
+    <!-- Comments are useful for adding notes to your code or temporarily disabling parts of it -->
+
+    <!-- Special characters can be represented using entity codes or Unicode characters -->
+    <p>The copyright symbol is &copy; or &#169; or &#xA9;</p>
+    <p>The registered trademark symbol is &reg; or &#174; or &#xAE;</p>
+    <p>The euro symbol is &euro; or &#8364; or &#x20AC;</p>
+    <p>The trademark symbol :&trade;</p>
+
+    <!-- Some special characters require escaping with a backslash (\) -->
+    <p>This is a backslash: \</p>
+    <p>This is a less-than symbol: \<</p>
+    <p>This is a greater-than symbol: \></p>
+
+    <!-- HTML entities for special characters -->
+    <p>This is an ampersand: &amp;</p>
+    <p>This is a double quote: &quot;</p>
+    <p>This is a single quote: &apos;</p>
+    <p>This is a greater-than symbol: &gt;</p>
+    <p>This is a less-than symbol: &lt;</p>
+</body>
+</html>
