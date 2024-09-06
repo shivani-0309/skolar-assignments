@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic</title>
+</head>
+<body>
+    <header class="Header">
+        <nav>
+            <a href="#Home">Home</a><br><br>
+            <a href="#About">About</a><br><br>
+            <a href="#Contact">Contact</a><br><br>
+        </nav>
+    </header>
+        <main>
+
+            <section>
+                <h1>Welcome to our website</h1>
+                <p>This is a sample website built using semantic HTML elements.</p>
+            </section>
+
+            <section>
+                <h2>About Us</h2>
+                <p>We are a team of developers passionate about building accessible and semantic websites.</p>
+            </section>
+        
+            <article>
+                <h2>Why Semantic HTML Matters</h2>
+                <p>Semantic HTML is essential for building accessible and search engine optimized websites.</p>
+            </article>
+        
+            <!-- Aside -->
+    </main>
+    <aside>
+        <h2>Related Links</h2>
+        <ul>
+          <li><a href="#">link 1</a></li>
+          <li><a href="#">link 2</a></li>
+        </ul>
+      </aside>
+        
+</body>
+</html>
