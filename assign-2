@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+    <form>
+            <label>User name</label>
+            <input type="username" name="username" placeholder="Enter username" size="15"/><br><br>
+            <label>Email</label>
+            <input type="email" name="email" placeholder="Enter email" size="15"/><br><br>
+            <label>password</label>
+            <input type="password" name="pass" placeholder="Enter password" size="15"/><br><br>
+            <input type="checkbox" value="Terms"/>
+            <label for="Terms">I agree all terms and conditions</label><br><br>
+            <input type="button" value="submit"/>
+    </form>           
+</body>
+</html>
