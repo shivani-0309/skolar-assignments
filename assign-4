@@ -6,7 +6,7 @@
     <title>Image and links</title>
 </head>
 <body>
-        <img src="/image/download.jpg">
+        <img src="download.jpg">
         <figcaption>This view never gets old</figcaption>
         <a href="https://i.pinimg.com/736x/66/b7/f6/66b7f6e5ad85cdfeab3459f2b5480407.jpg">Go to image</a>
 </body>
