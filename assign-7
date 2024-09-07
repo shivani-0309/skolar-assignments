@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio and video</title>
+</head>
+<body>
+<h3>Audio player</h3>
+    <audio src="Fear.mp3" controls loop>
+      </audio>
+      <h3>Video player</h3>
+      <video src="hourglass.mp4"  width=500px controls loop>
+      </video>
+</body>
+</html>
